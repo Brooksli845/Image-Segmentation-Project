@@ -21,3 +21,6 @@ This project implements an image segmentation tool using the Max Flow/Min Cut Th
 - [Pelican Image](pelican_picture.jpg): Main grayscale image used for segmentation.
 - [Oval CSV](oval-1.csv): Contains pixel intensity data for the pelican image in CSV format, used for validating the segmentation algorithm.
 - [Box CSV](box.csv): Another test dataset in CSV format, providing pixel intensity data to evaluate the tool’s performance on different images.
+
+## Result
+- [Segmentation Result](Final_Result_Pelican.png): This is the final result of the segmentation. The redoutline represents the segmentation boundary, computed using the Max Flow/Min Cut optimization technique.
