@@ -18,6 +18,6 @@ This project implements an image segmentation tool using the Max Flow/Min Cut Th
   import cv2
   ```
 ## Files Required
-- [Pelican Image](pelican_picture.jpg)
-- [Oval CSV](oval-1.csv)
-- [Box CSV](box.csv)
+- [Pelican Image](pelican_picture.jpg): Main grayscale image used for segmentation.
+- [Oval CSV](oval-1.csv): Contains pixel intensity data for the pelican image in CSV format, used for validating the segmentation algorithm.
+- [Box CSV](box.csv): Another test dataset in CSV format, providing pixel intensity data to evaluate the tool’s performance on different images.
