@@ -17,5 +17,7 @@ This project implements an image segmentation tool using the Max Flow/Min Cut Th
   import matplotlib.pyplot as plt
   import cv2
   ```
-# Files Required
-![Pelican Segmentation](pelican_picture.jpg)
+## Files Required
+- [Pelican Image](pelican_picture.jpg)
+- [Oval CSV](oval-1.csv)
+- [Box CSV](box.csv)
