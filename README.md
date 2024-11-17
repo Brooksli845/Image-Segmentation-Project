@@ -18,4 +18,4 @@ This project implements an image segmentation tool using the Max Flow/Min Cut Th
   import cv2
   ```
 # Files Required
-![Pelican Segmentation](pelican_picture.jpg)
+![Pelican Segmentation](pelican picture.jpg)
