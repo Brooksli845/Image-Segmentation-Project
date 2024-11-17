@@ -11,8 +11,11 @@ This project implements an image segmentation tool using the Max Flow/Min Cut Th
 
 # Libraries required
 
-```bash
-import gurobipy as gp
-import numpy as np
-import matplotlib.pyplot as plt
-import cv2
+  ```bash
+  import gurobipy as gp
+  import numpy as np
+  import matplotlib.pyplot as plt
+  import cv2
+  ```
+# Files Required
+![Pelican Segmentation](pelican_picture.jpg)
